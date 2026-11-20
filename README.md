@@ -16,14 +16,6 @@ Mon portfolio est sur [korneevscp.github.io](https://korneevscp.github.io/), ou 
     </td>
   </tr>
   <tr>
-    <td>📡</td>
-    <td>
-      <a href="https://github.com/korneevscp/sentinel-wireshark"><b>Sentinelle</b></a> · créateur
-      <img src="https://img.shields.io/github/stars/korneevscp/sentinel-wireshark?style=flat&label=%E2%98%85&color=333" alt="stars"><br>
-      Analyseur heuristique de captures Wireshark (.pcap / .pcapng) qui repère les IP aux comportements suspects.
-    </td>
-  </tr>
-  <tr>
     <td>🚩</td>
     <td>
       <a href="https://github.com/korneevscp/help-ctf-py"><b>help-ctf-py</b></a> · créateur<br>
