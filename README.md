@@ -34,7 +34,7 @@ Mon portfolio est sur [korneevscp.github.io](https://korneevscp.github.io/), ou 
 
 ### Projects
 
-### Projects
+
 
 | | | |
 |---|---|---|
