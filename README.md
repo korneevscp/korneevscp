@@ -34,12 +34,17 @@ Mon portfolio est sur [korneevscp.github.io](https://korneevscp.github.io/), ou 
 
 ### Projects
 
+### Projects
+
 | | | |
 |---|---|---|
-| [**Pentest Suite**](https://github.com/korneevscp/pentest-web-recon) | Panel Flask tout-en-un : recon réseau, audit web, OSINT léger et utilitaires crypto. | ![](https://img.shields.io/github/stars/korneevscp/pentest-web-recon?style=flat&label=%E2%98%85&color=333) |
+| [**ShadowWatch**](https://github.com/korneevscp/shadowwatch) | Surveille tes données personnelles sur le web et le darknet, avec alertes par email et dashboard local. | ![](https://img.shields.io/github/stars/korneevscp/shadowwatch?style=flat&label=%E2%98%85&color=333) |
+| [**AutoPentest**](https://github.com/korneevscp/osint-target) | Pentest automatisé : WhatWeb + Nmap + correspondance CVE via l'API NVD. | ![](https://img.shields.io/github/stars/korneevscp/osint-target?style=flat&label=%E2%98%85&color=333) |
+| [**OSINT IP**](https://github.com/korneevscp/osint-IP-by-korneevscp) | Outil OSINT de recherche d'informations sur une adresse IP. | ![](https://img.shields.io/github/stars/korneevscp/osint-IP-by-korneevscp?style=flat&label=%E2%98%85&color=333) |
 | [**S.T.E.G.O**](https://github.com/korneevscp/S.T.E.G.O) | Toolkit de stéganographie LSB (image, WAV, vidéo) avec détection chi² et panel web. | ![](https://img.shields.io/github/stars/korneevscp/S.T.E.G.O?style=flat&label=%E2%98%85&color=333) |
-| [**ProcessGuard**](https://github.com/korneevscp/ProcessGuard) | Surveillance des processus Windows. | ![](https://img.shields.io/github/stars/korneevscp/ProcessGuard?style=flat&label=%E2%98%85&color=333) |
+| [**USB Anonymisation Launcher**](https://github.com/korneevscp/USB-Anonymisation-Launcher) | Lance Tor Portable depuis une clé USB, nettoie le système et propose un bouton « Panic ». | ![](https://img.shields.io/github/stars/korneevscp/USB-Anonymisation-Launcher?style=flat&label=%E2%98%85&color=333) |
 | [**Windows IDS**](https://github.com/korneevscp/windows-d-tection-intrusion-) | Détection d'intrusion sur Windows. | ![](https://img.shields.io/github/stars/korneevscp/windows-d-tection-intrusion-?style=flat&label=%E2%98%85&color=333) |
+| [**GMod Pentest SOC**](https://github.com/korneevscp/GMod-Pentest-SOC) | Outils de pentest et de SOC pour serveurs Garry's Mod. | ![](https://img.shields.io/github/stars/korneevscp/GMod-Pentest-SOC?style=flat&label=%E2%98%85&color=333) |
 
 ### Experience
 
