@@ -30,7 +30,6 @@ Mon portfolio est sur [korneevscp.github.io](https://korneevscp.github.io/), ou 
 
 | | | |
 |---|---|---|
-| [**Valentin Freidel — CV**](https://github.com/korneevscp/valentin-freidel-cv) | CV professionnel en ligne, également accessible sur [korneevscp.github.io](https://korneevscp.github.io/valentin-freidel-cv/). | ![](https://img.shields.io/github/stars/korneevscp/valentin-freidel-cv?style=flat&label=%E2%98%85&color=333) |
 | [**ShadowWatch**](https://github.com/korneevscp/shadowwatch) | Surveille tes données personnelles sur le web et le darknet, avec alertes par email et dashboard local. | ![](https://img.shields.io/github/stars/korneevscp/shadowwatch?style=flat&label=%E2%98%85&color=333) |
 | [**AutoPentest**](https://github.com/korneevscp/osint-target) | Pentest automatisé : WhatWeb + Nmap + correspondance CVE via l'API NVD. | ![](https://img.shields.io/github/stars/korneevscp/osint-target?style=flat&label=%E2%98%85&color=333) |
 | [**OSINT IP**](https://github.com/korneevscp/osint-IP-by-korneevscp) | Outil OSINT de recherche d'informations sur une adresse IP. | ![](https://img.shields.io/github/stars/korneevscp/osint-IP-by-korneevscp?style=flat&label=%E2%98%85&color=333) |
